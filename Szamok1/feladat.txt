@@ -1,0 +1,7 @@
+A szamok40.txt fájlban valamennyi egész szám található, minden sorban 1-1 darab. Olvasd be és tárold el egy listába számokat!
+Oldd meg a következõ feladatokat, és írd ki a képernyõre az eredményeket!
+
+Hány olyan szám van a fájlban, amely eléri a 15-öt?
+Írd ki a számokat növekvõ sorrendben!
+Van-e a számok között 0?
+Melyik a legnagyobb szám a fájlban?
